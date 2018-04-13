@@ -39,6 +39,5 @@ describe('<ProductCard />', () => {
 		var productCard = shallow(<ProductCard product={mockProduct}/>);
 		expect(productCard.find('.title').length).toEqual(1);
 	});
-
-
+	
 });

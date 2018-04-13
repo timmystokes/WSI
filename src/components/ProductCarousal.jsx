@@ -81,8 +81,6 @@ class ProductCarousal extends React.Component {
 	
 	render() {
 		const images = this.state.selectedProduct.images || [];
-		debugger;
-		
 		return (
 			<div className="carousal">
 				<div className="slides">

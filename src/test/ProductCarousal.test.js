@@ -3,14 +3,7 @@ import { shallow } from 'enzyme';
 import ProductCarousal from '../components/ProductCarousal';
 
 
-// describe('<ProductCarousal />', () => {
-// 	it('renders without crashing', () => {
-// 		shallow(<ProductCarousal />);
-// 	});
-// });
-
-
 describe('<ProductCarousal />', () => {
-	it('renders without crashing', () => {
+	it('I would add tests for ProductCarousal component here', () => {
 	});
 });

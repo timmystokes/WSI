@@ -10,6 +10,7 @@ npm install
 ```
 
 ## Directions to run the app locally:
+In WSI directory, in terminal - run the following:
 ```
 react-dev-server
 ```

@@ -27,5 +27,5 @@ CI=true npm test
 ```
 
 ## Notes about this project:
-- I decided to use react.js as my view framework for this assignment, along with bulma as my styling framework, and enzyme for my testing frameowork.
+- I decided to use react.js as my view framework for this assignment, along with bulma as my styling framework, and enzyme for my testing framework. I hope these choices were valid!
 - I did not complete end-to-end testing for each component for this assignment but rather I briefly demoed how I would approach testing my components using enzyme - I hope this is acceptable.

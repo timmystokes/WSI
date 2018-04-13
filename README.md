@@ -1,5 +1,4 @@
 # WSI Programming Assignment
-===
 ## Directions to setup:
 First you will need to install the package to run the react dev server:
 ```

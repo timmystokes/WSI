@@ -1,0 +1,22 @@
+{
+  "name": "productpage",
+  "version": "1.0.0",
+  "description": "Prodct page for William Sonoma coding assignment",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmystokes/WSI.git"
+  },
+  "author": "Tim Stokes",
+  "homepage": "https://github.com/timmystokes/WSI#readme"
+}

@@ -9,16 +9,16 @@ class App extends React.Component {
 			selectedProduct: {},
 			showModal: false
 		}
-    this.launchModal = this.launchModal.bind(this);
+    	this.launchModal = this.launchModal.bind(this);
 	}
 
 
 	launchModal(product) {
-    const state = {
-      selectedProduct: product,
-      showModal: true
-    }
-    this.setState(state);
+	    const state = {
+			selectedProduct: product,
+			showModal: true
+	    }
+	    this.setState(state);
 	}
 
 	render() {
